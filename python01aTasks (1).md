@@ -43,30 +43,30 @@ Match each computer task with the hardware component primarily responsible:
 
 | Task | Component (CPU, RAM, Hard Drive, Input Device, Output Device) |
 |------|--------------------------------------------------------------|
-| Storing your essay permanently | |
-| Clicking to open a file | |
-| Displaying your essay on screen | |
-| Processing calculations | |
-| Temporarily holding the essay while editing | |
+| Storing your essay permanently | Hard Drive |
+| Clicking to open a file | Input device |
+| Displaying your essay on screen | output device |
+| Processing calculations | CPU |
+| Temporarily holding the essay while editing | RAM |
 
 ## Task 4: Input-Process-Output (10 minutes)
 
 For each scenario, identify the INPUT, PROCESSING, and OUTPUT:
 
 **a) Calculator app adding 5 + 3**
-- Input: 
-- Processing: 
-- Output: 
+- Input: 5, 3
+- Processing: +
+- Output: 8
 
 **b) Spotify playing a song**
-- Input: 
-- Processing: 
-- Output: 
+- Input: click
+- Processing: online data
+- Output: sound
 
 **c) Weather app showing today's temperature**
-- Input: 
-- Processing: 
-- Output: 
+- Input:weather data 
+- Processing: caulcation
+- Output: today's projected temps
 
 ## Extension Challenge (Optional)
 
