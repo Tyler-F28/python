@@ -34,9 +34,13 @@ Look at this algorithm for finding the larger of two numbers:
 
 **Questions:**
 a) What's wrong with this algorithm?
+it doesn't actual do the caulculations itself
 b) How would you fix it?
+replace step three with a step that makes it compare the numbers
 c) Write a corrected version that works for ANY two numbers
-
+1.look at the first number
+2.look at the second number
+3.compare the numbers
 ## Task 3: Hardware Matching (10 minutes)
 
 Match each computer task with the hardware component primarily responsible:
