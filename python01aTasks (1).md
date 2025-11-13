@@ -34,7 +34,7 @@ Look at this algorithm for finding the larger of two numbers:
 
 **Questions:**
 a) What's wrong with this algorithm?
-it doesn't actual do the caulculations itself
+it doesn't actual do the calculations itself
 b) How would you fix it?
 replace step three with a step that makes it compare the numbers
 c) Write a corrected version that works for ANY two numbers
