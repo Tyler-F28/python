@@ -31,7 +31,6 @@ Look at this algorithm for finding the larger of two numbers:
 2. Look at the second number
 3. The first number is larger
 ```
-
 **Questions:**
 a) What's wrong with this algorithm?
 it doesn't actual do the calculations itself
